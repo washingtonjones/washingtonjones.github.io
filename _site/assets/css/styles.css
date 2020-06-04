@@ -6,3 +6,5 @@
 .nav-bar a { color: black; }
 
 .copyright p { text-align: center; }
+
+.post-content img { width: 800px; max-width: 90%; }
